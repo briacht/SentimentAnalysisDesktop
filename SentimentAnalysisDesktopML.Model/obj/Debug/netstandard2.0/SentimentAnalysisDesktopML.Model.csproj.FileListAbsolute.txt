@@ -1,0 +1,9 @@
+C:\Users\brachtma\Documents\GitHub\ML.NET-WinForms-Sentiment-Analysis\SentimentAnalysisDesktopML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\brachtma\Documents\GitHub\ML.NET-WinForms-Sentiment-Analysis\SentimentAnalysisDesktopML.Model\bin\Debug\netstandard2.0\SentimentAnalysisDesktopML.Model.deps.json
+C:\Users\brachtma\Documents\GitHub\ML.NET-WinForms-Sentiment-Analysis\SentimentAnalysisDesktopML.Model\bin\Debug\netstandard2.0\SentimentAnalysisDesktopML.Model.dll
+C:\Users\brachtma\Documents\GitHub\ML.NET-WinForms-Sentiment-Analysis\SentimentAnalysisDesktopML.Model\bin\Debug\netstandard2.0\SentimentAnalysisDesktopML.Model.pdb
+C:\Users\brachtma\Documents\GitHub\ML.NET-WinForms-Sentiment-Analysis\SentimentAnalysisDesktopML.Model\obj\Debug\netstandard2.0\SentimentAnalysisDesktopML.Model.csprojAssemblyReference.cache
+C:\Users\brachtma\Documents\GitHub\ML.NET-WinForms-Sentiment-Analysis\SentimentAnalysisDesktopML.Model\obj\Debug\netstandard2.0\SentimentAnalysisDesktopML.Model.AssemblyInfoInputs.cache
+C:\Users\brachtma\Documents\GitHub\ML.NET-WinForms-Sentiment-Analysis\SentimentAnalysisDesktopML.Model\obj\Debug\netstandard2.0\SentimentAnalysisDesktopML.Model.AssemblyInfo.cs
+C:\Users\brachtma\Documents\GitHub\ML.NET-WinForms-Sentiment-Analysis\SentimentAnalysisDesktopML.Model\obj\Debug\netstandard2.0\SentimentAnalysisDesktopML.Model.dll
+C:\Users\brachtma\Documents\GitHub\ML.NET-WinForms-Sentiment-Analysis\SentimentAnalysisDesktopML.Model\obj\Debug\netstandard2.0\SentimentAnalysisDesktopML.Model.pdb
